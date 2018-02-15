@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518624256799.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7A05FFF6",
+    "lastKnownWriteTime" : 1518627849,
+    "last_content_update" : 1518627849697,
+    "path" : "~/Tutorial/Tutorial.R",
+    "project_path" : "Tutorial.R",
+    "properties" : {
+        "cursorPosition" : "7,15",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

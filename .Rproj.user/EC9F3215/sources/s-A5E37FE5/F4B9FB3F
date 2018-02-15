@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518638444950.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "320497125",
+    "id" : "F4B9FB3F",
+    "lastKnownWriteTime" : 1518641399,
+    "last_content_update" : 1518641399386,
+    "path" : "~/Tutorial/Functions.R",
+    "project_path" : "Functions.R",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

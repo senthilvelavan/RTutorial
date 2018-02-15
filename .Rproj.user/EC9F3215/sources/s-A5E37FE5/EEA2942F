@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518641401614.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4115507811",
+    "id" : "EEA2942F",
+    "lastKnownWriteTime" : 1518686559,
+    "last_content_update" : 1518686559211,
+    "path" : "~/Tutorial/DataFrames.R",
+    "project_path" : "DataFrames.R",
+    "properties" : {
+        "cursorPosition" : "69,0",
+        "scrollLine" : "50",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
